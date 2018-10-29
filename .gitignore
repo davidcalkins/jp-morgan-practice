@@ -1,3 +1,23 @@
+**/pull_request_template.md
+**/issue_template.md
+**/target/
+**/bin/
+**/META-INF/**
+
+#Eclipse
+**/.metadata
+**/.project
+**/.settings/
+**/.classpath
+**/.recommenders/**
+**/Servers
+**/.springBeans
+/target
+
+#IDEA
+**/.idea/
+**/*.iml
+
 # Compiled class file
 *.class
 
@@ -21,3 +41,5 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/release.properties
+/pom.xml.releaseBackup
