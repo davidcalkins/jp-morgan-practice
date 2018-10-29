@@ -13,6 +13,7 @@
 **/Servers
 **/.springBeans
 /target
+/.sonarlint
 
 #IDEA
 **/.idea/
